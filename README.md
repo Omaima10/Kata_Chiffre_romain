@@ -1,2 +1,2 @@
-# Kata_Chiffre_romain
+# Kata_Roman_Numeral
 Roman numeral parser
